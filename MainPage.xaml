@@ -11,6 +11,7 @@
             <Label
                 Text="Launch the app in landscape mode on an Android tablet, switch to split view with another app and try to change splitter width - FlyoutPage ignores all the resizes."
                 Style="{StaticResource Headline}"
+                MaximumWidthRequest="500"
                 SemanticProperties.HeadingLevel="Level1" />
 
         </VerticalStackLayout>

@@ -5,7 +5,7 @@
              Title="FlyoutContentPage">
     <VerticalStackLayout>
         <Label
-            Text="This sidebar should get visible when screen is wide enough (tablet) for FlyoutPage to be in Split mode, so when Android split view is used on a table the sidebar should be visible when the app takes 2/3 of the screen."
+            Text="This sidebar should get visible when screen is wide enough (tablet) for FlyoutPage to be in Split mode, so when Android split view is used on a table the sidebar should be visible when the app takes 2/3 of the screen and in Popover mode when less than 2/3."
             VerticalOptions="Center"
             HorizontalOptions="Center" />
     </VerticalStackLayout>
